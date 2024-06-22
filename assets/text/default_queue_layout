@@ -1,0 +1,12 @@
+printLogo;@pLogo
+printAs;Date: ;@DNT;1
+printAs;******************************;;1
+printAs;  Token Number;;2
+printAs;******************************;;1
+printAs;Token # ;@TOKENNO;2
+printAs;******************************;;1
+Body2;Name: ;@product;nLine;Service: ;@provider;nLine;Charges: ;@amount;nLine;Quantity: ;@quantity;nLine;FoldType: ;@foldType;nLine;
+printAs;Total:;@TGRAND;2
+printAs;******************************;;1
+printAs;;nLine;1
+printAs;;nLine;1

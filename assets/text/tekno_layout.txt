@@ -1,0 +1,23 @@
+printLogo;@pLogo
+printAs;Tarih: ;@DNT;1
+printAs;Unvan: ;@MRTN;1
+printAs;Satici Kimligi: ;@MRTID;1
+printAs;Cihaz Kimligi: ;@TERID;1
+printAs;İslem Kimligi: ;@TRXID;1
+printAs;ödeme şekli: ;@PMODE;2
+printAs;******************************;;1
+printAs;Fatura;;2
+printAs;******************************;;1
+printAs;*****Mali degeri yoktur*****;;1
+Body;Hizmet: ;@product;nLine;Servis: ;@provider;nLine;Fiyat: ;@amount;nLine;Miktar: ;@quantity;nLine;
+printAs;Toplam Miktar: ;@TQTY;1
+printAs;******************************;;1
+printAs;Toplam:;@TGRAND;2
+printAs;******************************;;1
+printAs;Adres: ;@MRTADDR;1
+printAs;Sehir: ;@MRTCTY;1
+printAs;İletisim: ;@MRTNO;1
+printAs;******************************;;1
+printAs;;@MRTMSG;1
+printAs;;nLine;1
+printAs;;nLine;1

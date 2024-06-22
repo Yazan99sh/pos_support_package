@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="46" viewBox="0 0 46 46">
+  <defs>
+    <filter id="Ellipse_390" x="0" y="0" width="46" height="46" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3931" data-name="Rectangle 3931" width="16" height="16" transform="translate(-1131 2620)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_14234" data-name="Group 14234" transform="translate(965 -2594)">
+    <g transform="matrix(1, 0, 0, 1, -965, 2594)" filter="url(#Ellipse_390)">
+      <circle id="Ellipse_390-2" data-name="Ellipse 390" cx="14" cy="14" r="14" transform="translate(9 6)" fill="#29cb97"/>
+    </g>
+    <g id="Mask_Group_135" data-name="Mask Group 135" transform="translate(181 -14)" clip-path="url(#clip-path)">
+      <path id="visa_4_" data-name="visa (4)" d="M6.075,8.215l-2.094,5H2.614L1.584,9.225a.552.552,0,0,0-.308-.44A5.436,5.436,0,0,0,0,8.36l.032-.145h2.2a.6.6,0,0,1,.6.51l.545,2.893,1.345-3.4H6.075ZM11.43,11.58c.006-1.318-1.824-1.39-1.811-1.98,0-.18.174-.371.548-.419a2.44,2.44,0,0,1,1.275.223l.227-1.059a3.475,3.475,0,0,0-1.209-.221c-1.278,0-2.177.68-2.185,1.652-.008.719.642,1.12,1.132,1.36s.672.4.67.621c0,.335-.4.482-.773.489a2.706,2.706,0,0,1-1.328-.316l-.234,1.1a3.944,3.944,0,0,0,1.438.266c1.358,0,2.247-.672,2.251-1.711M14.8,13.213H16l-1.044-5h-1.1a.59.59,0,0,0-.55.366l-1.939,4.631H12.72l.269-.746h1.659Zm-1.443-1.771.681-1.877.392,1.877ZM7.923,8.215l-1.07,5H5.56l1.07-5Z" transform="translate(-1131 2617.292)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,34 @@
+printLogo;@pLogo
+printAs;Date: ;@DNT;1
+printAs;Name: ;@MRTN;1
+printAs;TRN: ;@MRTTRN;1
+printAs;Merchant ID: ;@MRTID;1
+printAs;Terminal ID: ;@TERID;1
+printAs;Transaction ID: ;@TRXID;1
+printAs;Customer Name: ;@CNAME;1
+printAs;Customer No: ;@CUSN;1
+printAs;Car Plate Number: ;@CRN;1
+printAs;Customer Address: ;@CUSADD;1
+printAs;Cashier Name: ;@CSHNAME;1
+printAs;Payment Mode: ;@PMODE;1
+printAs;Table Number: ;@tableNumber;1
+printAs;******************************;;1
+printAs;Tax Invoice;;2
+printAs;******************************;;1
+Body;Name: ;@product;nLine;Service: ;@provider;nLine;UnitPrice: ;@amount;nLine;Quantity: ;@quantity;nLine;FoldType: ;@foldType;nLine;Charges: ;@subtotal;
+printAs;Total QTY: ;@TQTY;1;
+printAs;Total Before Vat: ;@TAMOUNT;1;
+printAs;You get Discount: ;@TDIS;1
+printAs;VAT @5%: ;@TTAX;1
+printAs;******************************;;1
+printAs;Total:;@TGRAND;2
+printAs;******************************;;1
+printAs;;@MRTADDR;1
+printAs;City: ;@MRTCTY;1
+printAs;Country: ;@MRTCTRY;1
+printAs;Call Us: ;@MRTNO;1
+printAs;;@MRTMSG;1
+printLogo;@pFooter
+printAs;;nLine;1
+printAs;;nLine;1
+printAs;;@OPENDRAWER;1

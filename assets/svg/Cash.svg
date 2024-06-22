@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="46" viewBox="0 0 46 46">
+  <defs>
+    <filter id="Ellipse_388" x="0" y="0" width="46" height="46" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3930" data-name="Rectangle 3930" width="16" height="16" transform="translate(-1209 2620)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_14232" data-name="Group 14232" transform="translate(1047 -2594)">
+    <g transform="matrix(1, 0, 0, 1, -1047, 2594)" filter="url(#Ellipse_388)">
+      <circle id="Ellipse_388-2" data-name="Ellipse 388" cx="14" cy="14" r="14" transform="translate(9 6)" fill="#29cb97"/>
+    </g>
+    <g id="Mask_Group_133" data-name="Mask Group 133" transform="translate(177 -14)" clip-path="url(#clip-path)">
+      <g id="cards-with-dollar-sign" transform="translate(-1209 2621.272)">
+        <g id="Group_14230" data-name="Group 14230">
+          <path id="Path_42531" data-name="Path 42531" d="M7.162,8.161a1.065,1.065,0,0,1,.63-.229V9.5A2.1,2.1,0,0,1,7.1,9.167a.632.632,0,0,1-.188-.482A.823.823,0,0,1,7.162,8.161ZM13.3,3.114a1.5,1.5,0,0,0-1.988-1.129L3.182,4.161H13.571ZM16,6.758v6.994a1.6,1.6,0,0,1-1.612,1.612H1.612A1.6,1.6,0,0,1,0,13.752V6.758A1.6,1.6,0,0,1,1.612,5.147H14.385A1.626,1.626,0,0,1,16,6.758Zm-5.571,4.773a1.521,1.521,0,0,0-.5-1.215A3.356,3.356,0,0,0,8.4,9.667H8.376v-1.7a2.99,2.99,0,0,1,1.3.524l.585-.838a3.735,3.735,0,0,0-1.885-.671V6.522H7.788v.441a2.166,2.166,0,0,0-1.423.544A1.674,1.674,0,0,0,5.82,8.784,1.429,1.429,0,0,0,6.3,9.957a3.652,3.652,0,0,0,1.488.65v1.759a3.187,3.187,0,0,1-1.571-.8l-.671.8a3.984,3.984,0,0,0,2.221.985v.671h.585v-.65a2.309,2.309,0,0,0,1.488-.544A1.642,1.642,0,0,0,10.429,11.531Zm-2.053-.773V12.39a1.157,1.157,0,0,0,.691-.25.664.664,0,0,0,.25-.524.679.679,0,0,0-.188-.5A1.918,1.918,0,0,0,8.376,10.758Z" transform="translate(0 -1.908)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
